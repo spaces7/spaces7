@@ -1,5 +1,5 @@
 ```console
-Ciao! I am Ayush ⚝ 
+Hello! I am Ayush ⚝ 
 I am a penultimate year engineering student pursuing information technology.
 I have disparate creative pursuits, dabbles in a chess game and melodic musical drumming.
 
