@@ -1,8 +1,10 @@
 #### <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24"/>  HI! I AM AYUSH. *WELCOME TO MY PAGE!*
- I am a penultimate year engineering student pursuing information technology. I have disparate creative pursuits, dabbles in a chess game and melodic musical drumming :drum:.
+ I am a penultimate year engineering student pursuing information technology. I have disparate creative pursuits, dabbles in a chess game and melodic musical drumming :drum:. 
+ 
+<img src="https://github.com/spaces7/spaces7/blob/main/assets/spaces-anime.gif" width="500" height="500">
 
 ![Stacks](https://readme-typing-svg.demolab.com/?lines=───────────────────────────+────────────────+────────)
-
+#### TOOLS OF TRADE:  
 #### <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="25"> PROGRAMMING AND MARKUP LANGUAGES 
 
 <p>
@@ -25,6 +27,7 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+<img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-20232a.svg?logo=express&logoColor=%2361DAFB">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -32,7 +35,8 @@
 #### <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="25"> DATABASES AND CLOUD HOSTING 
 
 <p>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-F7DF1E.svg?logo=mongodb&logoColor=black">
+<img alt="NoSQL" src ="https://img.shields.io/badge/NoSQL-4ea94b.svg?logo=nosql&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
@@ -43,7 +47,7 @@
 
 ![Stacks](https://readme-typing-svg.demolab.com/?lines=───────────────────────────+────────────────+────────)
 
-#### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="24"/> MY ACTIVITY GRAPH
+#### <img src="https://github.com/spaces7/spaces7/blob/main/assets/activity-anime.gif" height="24"> MY ACTIVITY GRAPH
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=spaces7&theme=react-dark&hide_border=true&hide_title=true&")](https://github.com/spaces7/github-readme-activity-graph)
 
