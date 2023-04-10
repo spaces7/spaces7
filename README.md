@@ -47,10 +47,6 @@
 
 ![Stacks](https://readme-typing-svg.demolab.com/?lines=───────────────────────────+────────────────+────────)
 
-#### <img src="https://github.com/spaces7/spaces7/blob/main/assets/activity-anime.gif" height="24"> MY ACTIVITY GRAPH
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=spaces7&theme=react-dark&hide_border=true&hide_title=true&")](https://github.com/spaces7/github-readme-activity-graph)
-
-![Stacks](https://readme-typing-svg.demolab.com/?lines=───────────────────────────+────────────────+────────)
+#### <img src="https://github.com/spaces7/spaces7/blob/main/assets/activity-anime.gif" height="24"> LINKS
 
 #### <a href="https://spaces7.github.io/portfolio/">![Portfolio](https://img.shields.io/badge/portfolio-14354C.svg?style=for-the-badge&logo=github&logoColor=white)</a> <a href="https://leetcode.com/spaces-/">![LeetCode](https://img.shields.io/badge/LeetCode-12100E?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> <a href="https://www.hackerrank.com/spaces_/">![Hackerrank](https://img.shields.io/badge/-Hackerrank-43853D?style=for-the-badge&logo=HackerRank&logoColor=white)</a> <a href="https://shayush-007.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://dev.to/spaces7/">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> <a href="https://github.com/spaces7?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-14354C?style=for-the-badge&logoColor=white&logo=fork"/></a>
